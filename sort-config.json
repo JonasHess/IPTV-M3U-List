@@ -300,5 +300,11 @@
   },
   "GroupBlacklist": [
     "France"
+  ],
+  "GroupSortingOrder": [
+    "Germany",
+    "United Kingdom",
+    "United States",
+    "United States - Regionals"
   ]
 }
