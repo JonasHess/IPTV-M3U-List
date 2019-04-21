@@ -3,31 +3,41 @@
     "_Favoriten": [
 		{"tvg-name":"Das Erste HD", 	"tvg-id":"ARD.de", 	"group-title":"Germany"},
 		{"tvg-name":"ZDF HD", 	"tvg-id":"ZDF.de", 	"group-title":"Germany"},
+		{"tvg-name":"Nat Geo DE HD", 	"tvg-id":"NatGeo.de", 	"group-title":"Germany"},
+		{"tvg-name":"Nat Geo Wild DE HD", 	"tvg-id":"NatGeoWild.de", 	"group-title":"Germany"},
+		{"tvg-name":"Discovery Channel DE HD", 	"tvg-id":"DiscoveryChannel.de", 	"group-title":"Germany"},
+		{"tvg-name":"N24 HD", 	"tvg-id":"n24.de", 	"group-title":"Germany"},
+		{"tvg-name":"DMAX HD", 	"tvg-id":"DMax.de", 	"group-title":"Germany"},
+		{"tvg-name":"History DE HD", 	"tvg-id":"History.de", 	"group-title":"Germany"},
+
+		{"tvg-name":"N-TV HD", 	"tvg-id":"ntv.de", 	"group-title":"Germany"},
+		{"tvg-name":"3Sat HD", 	"tvg-id":"I.751045.microsoft.com", 	"group-title":"Germany"},
+
 		{"tvg-name":"Discovery Channel UK", 	"tvg-id":"DiscoveryChannel.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"National Geographic UK", 	"tvg-id":"NatGeo.uk", 	"group-title":"United Kingdom"},
+
 		{"tvg-name":"Nat Geo CA HD", 	"tvg-id":"I524.26882.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Nat Geo Wild UK", 	"tvg-id":"INatGeoWild.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Nat Geo HD", 	"tvg-id":"I276.49438.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"Nat Geo Wild HD", 	"tvg-id":"I283.67331.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"Discovery Channel CA HD", 	"tvg-id":"I1602.72638.schedulesdirect.org", 	"group-title":"Canada"},
+
 		{"tvg-name":"Animal Planet CA HD", 	"tvg-id":"I525.26823.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Animal Planet HD", 	"tvg-id":"I282.57394.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"Animal Planet UK", 	"tvg-id":"AnimalPlanet.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Discovery History", 	"tvg-id":"DiscoveryHistory.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Discovery Science UK", 	"tvg-id":"DiscoveryScience.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Nat Geo Wild CA HD", 	"tvg-id":"I1610.75451.schedulesdirect.org", 	"group-title":"Canada"},		
+		{"tvg-name":"Nat Geo Wild CA HD", 	"tvg-id":"I1610.75451.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Discovery Channel HD", 	"tvg-id":"I278.56905.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"Discovery Science HD", 	"tvg-id":"I284.57390.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"Discovery Turbo", 	"tvg-id":"DiscoveryTurbo.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"H2", 	"tvg-id":"History2.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"History HD", 	"tvg-id":"I269.57708.schedulesdirect.org", 	"group-title":"United States"},
-		{"tvg-name":"Discovery Channel DE HD", 	"tvg-id":"DiscoveryChannel.de", 	"group-title":"Germany"},
-		{"tvg-name":"N24 HD", 	"tvg-id":"n24.de", 	"group-title":"Germany"},
-		{"tvg-name":"Nat Geo DE HD", 	"tvg-id":"NatGeo.de", 	"group-title":"Germany"},
-		{"tvg-name":"Nat Geo Wild DE HD", 	"tvg-id":"NatGeoWild.de", 	"group-title":"Germany"},
-		{"tvg-name":"DMAX HD", 	"tvg-id":"DMax.de", 	"group-title":"Germany"},
-		{"tvg-name":"History DE HD", 	"tvg-id":"History.de", 	"group-title":"Germany"},
-		{"tvg-name":"3Sat HD", 	"tvg-id":"I.751045.microsoft.com", 	"group-title":"Germany"},
+		{"tvg-name":"Space HD", 	"tvg-id":"I627.17609.schedulesdirect.org", 	"group-title":"Canada"},
+
+		{"tvg-name":"National Geographic UK", 	"tvg-id":"NatGeo.uk", 	"group-title":"United Kingdom"},
+
+
+
 		{"tvg-name":"RTL HD", 	"tvg-id":"RTL.de", 	"group-title":"Germany"},
 		{"tvg-name":"RTL 2 HD", 	"tvg-id":"RTL2.de", 	"group-title":"Germany"},
 		{"tvg-name":"Sat.1 HD", 	"tvg-id":"Sat1.de", 	"group-title":"Germany"},
@@ -39,16 +49,28 @@
 		{"tvg-name":"Sat1 Gold HD", 	"tvg-id":"Sat1Gold.de", 	"group-title":"Germany"},
 		{"tvg-name":"Vox HD", 	"tvg-id":"Vox.de", 	"group-title":"Germany"},
 		{"tvg-name":"Sixx HD", 	"tvg-id":"sixx.de", 	"group-title":"Germany"},
-		{"tvg-name":"Tele 5 HD", 	"tvg-id":"Tele5.de", 	"group-title":"Germany"},
-		{"tvg-name":"ORF 1 HD", 	"tvg-id":"I.753364.microsoft.com", 	"group-title":"Germany"},
-		{"tvg-name":"ORF 2 HD", 	"tvg-id":"I.753367.microsoft.com", 	"group-title":"Germany"},
-		{"tvg-name":"N-TV HD", 	"tvg-id":"ntv.de", 	"group-title":"Germany"},
-		{"tvg-name":"TLC DE HD", 	"tvg-id":"TLC.de", 	"group-title":"Germany"},
-		{"tvg-name":"Travel Channel DE HD", 	"tvg-id":"TravelChannel.de", 	"group-title":"Germany"},
+
+
 		{"tvg-name":"Super RTL HD", 	"tvg-id":"SuperRTL.de", 	"group-title":"Germany"},
 		{"tvg-name":"Nickelodeon DE HD", 	"tvg-id":"Nickelodeon.de", 	"group-title":"Germany"},
 		{"tvg-name":"Disney Channel DE HD", 	"tvg-id":"DisneyChannel.de", 	"group-title":"Germany"},
 		{"tvg-name":"Disney Junior DE HD", 	"_tvg-id":"None", 	"group-title":"Germany"},
+		{"tvg-name":"Disney Jr HD", 	"tvg-id":"I289.74885.schedulesdirect.org", 	"group-title":"United States"},
+		{"tvg-name":"Disney Jr CA HD", 	"tvg-id":"I565.97311.schedulesdirect.org", 	"group-title":"Canada"},
+		{"tvg-name":"Cartoonito UK", 	"tvg-id":"Cartoonito.uk", 	"group-title":"United Kingdom"},
+		{"tvg-name":"Disney XD UK", 	"tvg-id":"DisneyXD.uk", 	"group-title":"United Kingdom"},
+		{"tvg-name":"Nick Jr Too UK", 	"tvg-id":"NickJrToo.uk", 	"group-title":"United Kingdom"},
+		{"tvg-name":"Nicktoons UK", 	"tvg-id":"Nicktoons.uk", 	"group-title":"United Kingdom"},
+		{"tvg-name":"Disney Channel CA HD", 	"tvg-id":"I563.96509.schedulesdirect.org", 	"group-title":"Canada"},
+		{"tvg-name":"Comedy Central UK", 	"tvg-id":"ComedyCentral.uk", 	"group-title":"United Kingdom"},
+
+
+
+		{"tvg-name":"Tele 5 HD", 	"tvg-id":"Tele5.de", 	"group-title":"Germany"},
+		{"tvg-name":"ORF 1 HD", 	"tvg-id":"I.753364.microsoft.com", 	"group-title":"Germany"},
+		{"tvg-name":"ORF 2 HD", 	"tvg-id":"I.753367.microsoft.com", 	"group-title":"Germany"},
+		{"tvg-name":"TLC DE HD", 	"tvg-id":"TLC.de", 	"group-title":"Germany"},
+		{"tvg-name":"Travel Channel DE HD", 	"tvg-id":"TravelChannel.de", 	"group-title":"Germany"},
 		{"tvg-name":"Sky Sport 1 DE HD", 	"tvg-id":"SkySport1.de", 	"group-title":"Germany"},
 		{"tvg-name":"Sky Sport 2 DE HD", 	"tvg-id":"SkySport2.de", 	"group-title":"Germany"},
 		{"tvg-name":"Sky Bundesliga 1 HD", 	"tvg-id":"SkyBundesliga1.de", 	"group-title":"Germany"},
@@ -79,6 +101,8 @@
 		{"tvg-name":"Sky Sport DE 9", 	"tvg-id":"SkySport9.de", 	"group-title":"Germany"},
 		{"tvg-name":"Sky Sports News DE HD", 	"tvg-id":"SkySportsNews.uk", 	"group-title":"Germany"},
 		{"tvg-name":"Sport 1 HD", 	"_tvg-id":"None", 	"group-title":"Germany"},
+
+
 		{"tvg-name":"RTE One", 	"tvg-id":"RTEOne.ie", 	"group-title":"Ireland"},
 		{"tvg-name":"RTE Two", 	"tvg-id":"RTETwo.ie", 	"group-title":"Ireland"},
 		{"tvg-name":"RTE Jr", 	"tvg-id":"RTEJr.ie", 	"group-title":"Ireland"},
@@ -86,6 +110,8 @@
 		{"tvg-name":"TV3", 	"tvg-id":"I103.105181.schedulesdirect.org", 	"group-title":"Ireland"},
 		{"tvg-name":"UTV HD", 	"tvg-id":"I178.68073.schedulesdirect.org", 	"group-title":"Ireland"},
 		{"tvg-name":"3e", 	"tvg-id":"I105.105131.schedulesdirect.org", 	"group-title":"Ireland"},
+
+
 		{"tvg-name":"BBC One HD", 	"tvg-id":"BBC1.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"BBC Two HD", 	"tvg-id":"BBC2.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"BBC Four HD", 	"tvg-id":"BBC4.uk", 	"group-title":"United Kingdom"},
@@ -133,7 +159,7 @@
 		{"tvg-name":"BBC News HD", 	"tvg-id":"I503.19037.schedulesdirect.org", 	"group-title":"United Kingdom"},
 		{"tvg-name":"TLC UK", 	"tvg-id":"TLC.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Sky News HD", 	"tvg-id":"SkyNews.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Comedy Central UK", 	"tvg-id":"ComedyCentral.uk", 	"group-title":"United Kingdom"},
+
 		{"tvg-name":"BabyTV", 	"tvg-id":"BabyTV.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"E! UK", 	"tvg-id":"EEntertainment.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"MTV UK", 	"tvg-id":"MTV.uk", 	"group-title":"United Kingdom"},
@@ -152,14 +178,13 @@
 		{"tvg-name":"BBC News", 	"tvg-id":"I503.19037.schedulesdirect.org", 	"group-title":"United Kingdom"},
 		{"tvg-name":"ID UK", 	"tvg-id":"InvestigationDiscovery.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Crime + Investigation UK", 	"tvg-id":"CrimeAndInvestigationNetwork.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Cartoonito UK", 	"tvg-id":"Cartoonito.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Disney XD UK", 	"tvg-id":"DisneyXD.uk", 	"group-title":"United Kingdom"},
+
 		{"tvg-name":"Pop Max UK", 	"tvg-id":"Kix.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Nick Jr Too UK", 	"tvg-id":"NickJrToo.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Nicktoons UK", 	"tvg-id":"Nicktoons.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Pop UK", 	"tvg-id":"I616.33638.schedulesdirect.org", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Tiny Pop UK", 	"tvg-id":"Tinypop.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Sky 1 HD", 	"tvg-id":"Sky1.uk", 	"group-title":"United Kingdom"},
+
+
 		{"tvg-name":"Quest", 	"_tvg-id":"None", 	"group-title":"United Kingdom"},
 		{"tvg-name":"OMNI 1 HD", 	"tvg-id":"I215.10105.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"CHCH HD", 	"tvg-id":"I218.10112.schedulesdirect.org", 	"group-title":"Canada"},
@@ -171,7 +196,6 @@
 		{"tvg-name":"TLC CA HD", 	"tvg-id":"I521.60734.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Family HD", 	"tvg-id":"I556.11156.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Treehouse HD", 	"tvg-id":"I553.17639.schedulesdirect.org", 	"group-title":"Canada"},
-		{"tvg-name":"Disney Channel CA HD", 	"tvg-id":"I563.96509.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Slice HD", 	"tvg-id":"I601.15181.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"TVO HD", 	"tvg-id":"I265.10119.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"CBC HD", 	"tvg-id":"I210.10091.schedulesdirect.org", 	"group-title":"Canada"},
@@ -190,8 +214,7 @@
 		{"tvg-name":"OMNI 2 HD", 	"tvg-id":"I216.31558.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"CTV 2 Vancover Island", 	"tvg-id":"I256.27190.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"Peachtree HD", 	"tvg-id":"I294.19556.schedulesdirect.org", 	"group-title":"Canada"},
-		{"tvg-name":"Space HD", 	"tvg-id":"I627.17609.schedulesdirect.org", 	"group-title":"Canada"},
-		{"tvg-name":"Disney Jr CA HD", 	"tvg-id":"I565.97311.schedulesdirect.org", 	"group-title":"Canada"},
+
 		{"tvg-name":"CTV Montreal HD", 	"tvg-id":"73276", 	"group-title":"Canada"},
 		{"tvg-name":"CBC Montreal HD", 	"tvg-id":"I206.10092.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"LCN HD", 	"tvg-id":"I127.17590.schedulesdirect.org", 	"group-title":"Canada"},
@@ -252,7 +275,7 @@
 		{"tvg-name":"Nick Jr HD", 	"tvg-id":"I301.82649.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"El Rey Network HD", 	"tvg-id":"I341.84175.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"VH1 HD", 	"tvg-id":"I335.60046.schedulesdirect.org", 	"group-title":"United States"},
-		{"tvg-name":"Disney Jr HD", 	"tvg-id":"I289.74885.schedulesdirect.org", 	"group-title":"United States"},
+
 		{"tvg-name":"Destination America HD", 	"tvg-id":"I286.60468.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"Hallmark Movies & Mysteries HD", 	"tvg-id":"I187.61522.schedulesdirect.org", 	"group-title":"United States"},
 		{"tvg-name":"GSN HD", 	"tvg-id":"I233.68827.schedulesdirect.org", 	"group-title":"United States"},
@@ -388,6 +411,6 @@
       "MatchCenter - NBA",
       "MatchCenter - Volleyball",
       "MatchCenter - Baseball",
-      "MatchCenter - No Sport",
+      "MatchCenter - No Sport"
   ]
 }
