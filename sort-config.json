@@ -31,7 +31,7 @@
 		{"tvg-name":"Discovery Science UK", 	"tvg-id":"DiscoveryScience.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Discovery Channel UK", 	"tvg-id":"DiscoveryChannel.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Discovery Turbo", 	"tvg-id":"DiscoveryTurbo.uk", 	"group-title":"United Kingdom"},
-		{"tvg-name":"Space HD", 	"tvg-id":"I627.17609.schedulesdirect.org", 	"group-title":"Canada"},
+
 
 		{"tvg-name":"History DE HD", 	"tvg-id":"History.de", 	"group-title":"Germany"},
 		{"tvg-name":"Discovery History", 	"tvg-id":"DiscoveryHistory.uk", 	"group-title":"United Kingdom"},
@@ -94,6 +94,7 @@
 		{"tvg-name":"Sky Atlantic", 	"tvg-id":"SkyAtlantic.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Sky Living", 	"tvg-id":"SkyLiving.uk", 	"group-title":"United Kingdom"},
 		{"tvg-name":"Syfy UK", 	"tvg-id":"Syfy.uk", 	"group-title":"United Kingdom"},
+		{"tvg-name":"Space HD", 	"tvg-id":"I627.17609.schedulesdirect.org", 	"group-title":"Canada"},
 		{"tvg-name":"CBS Action", 	"tvg-id":"I148.73970.schedulesdirect.org", 	"group-title":"United Kingdom"},
 		{"tvg-name":"CBS Drama", 	"tvg-id":"I147.57827.schedulesdirect.org", 	"group-title":"United Kingdom"},
 		{"tvg-name":"CBS Reality", 	"tvg-id":"I146.31756.schedulesdirect.org", 	"group-title":"United Kingdom"},
